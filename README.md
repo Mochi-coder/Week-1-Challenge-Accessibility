@@ -20,3 +20,4 @@ Your website must meet accessibility standards. You can achieve this completing 
 <li> Title elements contain a concise, descriptive title
 
 ![webpage for Horiseon] (assets/images/01-html-css-git-challenge-demo.png)
+
