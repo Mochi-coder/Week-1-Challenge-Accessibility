@@ -1,5 +1,7 @@
 # Week-1-Challenge-Accessibility
 
+This weeks challenge is:
+
 ## User Story
 
 AS A marketing agency
@@ -16,3 +18,5 @@ Your website must meet accessibility standards. You can achieve this completing 
 <li> Image and icon elements contain accessible alt attributes
 <li> Heading attributes fall in sequential order
 <li> Title elements contain a concise, descriptive title
+
+![webpage for Horiseon] (assets/images/01-html-css-git-challenge-demo.png)
