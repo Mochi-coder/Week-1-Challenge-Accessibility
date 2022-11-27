@@ -9,7 +9,6 @@ AS A marketing agency
 <section> SO THAT our own site is optimized for search engines
 
 
-
 ## Acceptance Criteria 
 Your website must meet accessibility standards. You can achieve this completing the following:
 
