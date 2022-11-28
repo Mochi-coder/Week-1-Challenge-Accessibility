@@ -18,4 +18,13 @@ Your website must meet accessibility standards. You can achieve this completing 
 <li> Heading attributes fall in sequential order
 <li> Title elements contain a concise, descriptive title
 
+=============
+Link to deployed application: 
 
+https://mochi-coder.github.io/Week-1-Challenge-Accessibility/
+
+=============
+
+Screenshot of this weeks challenge:
+
+![Alt text] (assets/images/Screenshot .png)
