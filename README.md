@@ -19,6 +19,7 @@ Your website must meet accessibility standards. You can achieve this completing 
 <li> Title elements contain a concise, descriptive title
 
 =============
+
 Link to deployed application: 
 
 https://mochi-coder.github.io/Week-1-Challenge-Accessibility/
@@ -27,4 +28,4 @@ https://mochi-coder.github.io/Week-1-Challenge-Accessibility/
 
 Screenshot of this weeks challenge:
 
-![Alt text] (assets/images/Screenshot .png)
+![Screenshot ](https://user-images.githubusercontent.com/116069253/204271453-83af7927-4790-4ef3-9be5-d3fd2c25446c.png)
